@@ -6,11 +6,11 @@
 
 1. Make sure you've installed all requirements
 2. Clone this repository:
-  `git clone https://github.com/yougotwill/sortifiler-site`
+  `git clone https://github.com/yougotwill/sortifiler-landing`
 
 ## Usage
 
-Here's a short explanation how to use `sortifiler-site`:
+Here's a short explanation how to use `sortifiler-landing`:
 
 1. `cd` into the repository
 2. Do some JavaScript in [script.js](src/script.js) and save.
