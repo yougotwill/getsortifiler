@@ -45,3 +45,4 @@ Here's a short explanation how to use `js-boilerplate`:
 - [Ledger app landing page](https://www.ledger-app.com/)
 - [When to use the section tag vs div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section#Usage_notes)
 - [Icons](https://iconmonstr.com/)
+- [Illustrations](https://undraw.co/)
