@@ -37,3 +37,7 @@ Here's a short explanation how to use `js-boilerplate`:
 ## License
 
 [MIT](LICENSE)
+## References
+
+- [Build a beautiful landing page with TailwindCSS](https://scotch.io/tutorials/build-a-beautiful-landing-page-with-tailwind-css)
+- [Inkdrop app landing page](https://inkdrop.app/)
