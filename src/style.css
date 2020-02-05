@@ -1,3 +1,33 @@
-.cta {
-  background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
+body {
+  background: #393939;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+nav, footer {
+  background: #191919;
+}
+
+#hero {
+  background: #191919;
+}
+
+#cta {
+  background: #292929;
+}
+
+.download-button {
+  box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
+}
+
+.download-button.purple {
+  background: #de72ff;
+}
+
+.download-button.blue {
+  background: #5ddaff;
+}
+
+.download-button.red {
+  background: #f97b7b;
 }

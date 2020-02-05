@@ -2,11 +2,9 @@
 
 ## Short-term
 
-- [ ] Add hero screenshot
-- [ ] Add themes screenshot
 - [ ] Mobile Menu
 - [ ] Update all links (download, legal, privacy, etc.)
-- [ ] Update colors to Sortifiler color palette
+- [ ] Fix navbar position in app so themes screenshot lines up
 
 ## Long-term
 
