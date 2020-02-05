@@ -1,21 +1,20 @@
-# js-boilerplate
+# Sortifiler landing page
 
-A minimal javascript boilerplate that uses [JavaScript Semi-Standard Style](https://github.com/standard/semistandard)
+[Sortifiler](https://github.com/yougotwill/sortifiler-app) needed a landing page and I wanted to try out [tailwindcss](https://tailwindcss.com/) and this this repo was born.
 
 ## Installation
 
 1. Make sure you've installed all requirements
 2. Clone this repository:
-  `git clone https://github.com/yougotwill/js-boilerplate`
+  `git clone https://github.com/yougotwill/sortifiler-site`
 
 ## Usage
 
-Here's a short explanation how to use `js-boilerplate`:
+Here's a short explanation how to use `sortifiler-site`:
 
 1. `cd` into the repository
-2. Run `npm install`.
-3. Do some JavaScript in [script.js](src/js/script.js) and save.
-4. Open [index.html](src/html/index.html) in your browser of choice and see the results.
+2. Do some JavaScript in [script.js](src/script.js) and save.
+3. Open [index.html](src/index.html) in your browser of choice and see the results.
 
 ## Contributing
 
@@ -27,8 +26,7 @@ Here's a short explanation how to use `js-boilerplate`:
 
 ## Requirements / Dependencies
 
-- NodeJS
-- npm
+- None
 
 ## Version
 
@@ -36,7 +34,8 @@ Here's a short explanation how to use `js-boilerplate`:
 
 ## License
 
-[MIT](LICENSE)
+[GNU GPLv3](LICENSE)
+
 ## References
 
 - [TailwindCSS Documentation](https://tailwindcss.com/docs/installation)
