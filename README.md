@@ -39,6 +39,9 @@ Here's a short explanation how to use `js-boilerplate`:
 [MIT](LICENSE)
 ## References
 
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation)
 - [Build a beautiful landing page with TailwindCSS](https://scotch.io/tutorials/build-a-beautiful-landing-page-with-tailwind-css)
 - [Inkdrop app landing page](https://inkdrop.app/)
+- [Ledger app landing page](https://www.ledger-app.com/)
 - [When to use the section tag vs div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section#Usage_notes)
+- [Icons](https://iconmonstr.com/)
