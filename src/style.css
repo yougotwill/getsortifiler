@@ -16,6 +16,23 @@ nav, footer {
   background: #292929;
 }
 
+.nav-mobile {
+  background: #191919;
+  position: absolute;
+  top: 0;
+  right:  0;
+  bottom: 0;
+  left:  0;
+  z-index: 10;
+  height: 101vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.75rem;
+  padding: 6rem;
+}
+
 .download-button {
   box-shadow: 2px 2px 3px 0px rgba(0,0,0,0.75);
 }

@@ -42,6 +42,7 @@ Here's a short explanation how to use `sortifiler-landing`:
 - [Build a beautiful landing page with TailwindCSS](https://scotch.io/tutorials/build-a-beautiful-landing-page-with-tailwind-css)
 - [Inkdrop app landing page](https://inkdrop.app/)
 - [Ledger app landing page](https://www.ledger-app.com/)
+- [Notable app landing page](https://notable.md/)
 - [When to use the section tag vs div](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section#Usage_notes)
 - [Icons](https://iconmonstr.com/)
 - [Illustrations](https://undraw.co/)
