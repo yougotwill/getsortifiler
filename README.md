@@ -1,6 +1,6 @@
 # Sortifiler landing page
 
-[Sortifiler](https://github.com/yougotwill/sortifiler-app) needed a landing page and I wanted to try out [tailwindcss](https://tailwindcss.com/) and this this repo was born.
+[Sortifiler](https://github.com/yougotwill/sortifiler-app) needed a landing page and I wanted to try out [tailwindcss](https://tailwindcss.com/) and so this repo was born.
 
 ![Screenshot](src/assets/screenshots/screenshot.png)
 
