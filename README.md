@@ -2,6 +2,8 @@
 
 [Sortifiler](https://github.com/yougotwill/sortifiler-app) needed a landing page and I wanted to try out [tailwindcss](https://tailwindcss.com/) and this this repo was born.
 
+![Screenshot](src/assets/screenshots/screenshot.png)
+
 ## Installation
 
 1. Make sure you've installed all requirements
@@ -26,11 +28,7 @@ Here's a short explanation how to use `sortifiler-landing`:
 
 ## Requirements / Dependencies
 
-- None
-
-## Version
-
-0.1.0
+- TailwindCSS
 
 ## License
 
