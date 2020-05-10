@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel='icon' href='assets/icons/favicon.ico'>
   <link rel="stylesheet" href="https://unpkg.com/tailwindcss/dist/tailwind.min.css" />
   <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="style.css">
@@ -12,10 +13,10 @@
 
 <body class="lg:text-xl">
   <!-- Navbar -->
-  <nav>
+  <nav id="js-nav">
     <div class="container mx-auto px-4 py-2 flex justify-between items-center">
       <!-- Title -->
-      <a class="flex items-center font-bold text-2xl lg:text-4xl" href="/"><img class="pr-2 lg:pr-3 w-16 lg:w-24" src="assets/icons/sortifiler.png"><span>Sortifiler</span></a>
+      <a class="flex items-center font-bold text-2xl lg:text-4xl" href="index.html"><img class="pr-2 lg:pr-3 w-16 lg:w-24" src="assets/icons/sortifiler.png"><span>Sortifiler</span></a>
       <!-- Mobile Menu -->
       <div id="js-nav-toggle" class="block lg:hidden z-20">
         <button class="flex items-center px-2 py-2 appearance-none focus:outline-none">
@@ -24,13 +25,13 @@
             <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
           </svg>
           <svg  id="btn-close" class="hidden fill-current h-5 w-5" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-            <time>Close</time>
+            <title>Close</title>
             <path d="M23.954 21.03l-9.184-9.095 9.092-9.174-2.832-2.807-9.09 9.179-9.176-9.088-2.81 2.81 9.186 9.105-9.095 9.184 2.81 2.81 9.112-9.192 9.18 9.1z"/>
           </svg>
         </button>
       </div>
       <!-- Desktop Menu -->
-        <ul id="js-nav" class="hidden lg:inline-flex">
+        <ul id="js-nav-items" class="hidden lg:inline-flex">
           <li class="px-4 font-bold"><a href="index.html">Home</a></li>
           <li class="px-4"><a href="mailto:yougotwill94@gmail.com" target="_blank">Contact</a></li>
           <li class="px-4">
